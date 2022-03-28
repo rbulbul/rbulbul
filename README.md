@@ -36,11 +36,12 @@ Find out more about me & feel free to connect:
 ![Ramazan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rbulbul&layout=compact&bg_color=7049c7,86a8e7,E56EB2&title_color=fff&text_color=fff)
 
 ---
+- 💬 ask me about anything, i am happy to help; [Reach here!](mailto:29.rbulbul@gmail.com) :)
 
-If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+And If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/2IBLV2wH8k" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a> 
 
-- 💬 ask me about anything, i am happy to help; [Reach here!](mailto:29.rbulbul@gmail.com) :)
+
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rbulbul.rbulbul)
