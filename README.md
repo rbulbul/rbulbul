@@ -4,7 +4,8 @@ I'm Ramazan Bulbul, currently pursuing my studying in software engineering from 
 
 #### I'm updating all my projects for Codam/42Amsterdam to [a dedicated organization for them. Check them out here](https://github.com/42Codam/Index)!
 
-Find out more about me & feel free to connect with me here:
+Find out more about me & feel free to connect:
+
 <a href="https://www.linkedin.com/in/rbulbul/">
   <img align="left" alt="Ramazan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -15,7 +16,9 @@ Find out more about me & feel free to connect with me here:
   <img align="left" alt="Ramazan's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 
-[![trophy](https://visitor-badge.glitch.me/badge?page_id=rbulbul.rbulbul)](https://github.com/ryo-ma/github-profile-trophy)
+My 'Trophy case':
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=rbulbul&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- ![alt-text](https://emoji.gg/assets/emoji/9879_hackerman.gif) -->
 
