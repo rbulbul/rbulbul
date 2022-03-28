@@ -41,6 +41,6 @@ If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/2IBLV2wH8k" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a> 
 
-- 💬 ask me about anything, i am happy to help; [email](mailto:29.rbulbul@gmail.com) :)
+- 💬 ask me about anything, i am happy to help; [Reach here!](mailto:29.rbulbul@gmail.com) :)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rbulbul.rbulbul)
