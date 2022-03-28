@@ -16,6 +16,8 @@ Find out more about me & feel free to connect:
   <img align="left" alt="Ramazan's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 
+---
+
 My 'Trophy case':
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rbulbul&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
@@ -32,6 +34,7 @@ My 'Trophy case':
 
 ![Ramazan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rbulbul&layout=compact&bg_color=7049c7,86a8e7,E56EB2&title_color=fff&text_color=fff)
 
+---
 
 If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
