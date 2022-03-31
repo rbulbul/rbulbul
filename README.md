@@ -5,7 +5,7 @@ I'm Ramazan, currently pursuing my studying in software engineering from [42's c
 I believe self-education is the truest form of education and I am a passionate self-taught software engineer, documenting my process of learning & growing every day.
 
 #### I'm updating all my projects for Codam/42Amsterdam to [a dedicated organization for them. Check them out here](https://github.com/42Codam/Index)!
-#### You can also find my personal project called "Youthful", where I brought my own startup idea to life, [in the organization here](https://github.com/42Codam/Index)!.
+#### You can also find my personal project called "Jouthful", where I brought my own startup idea to life, [in the organization here](https://github.com/42Codam/Index)!.
 
 
 Find out more about me & feel free to connect:
