@@ -1,6 +1,8 @@
 ### Hey there, fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I'm Ramazan Bulbul, currently pursuing my studying in software engineering from [42's campus in Amsterdam named Codam](https://www.codam.nl/). I take great care in the experience, and code quality of the things I build. I believe so self-education is the truest form of education and I am a passionate self-taught programmer. I am trying to give a strong vision for my developer friends and colleagues which helps them to make their development workflow as much as easy as possible!
+I'm Ramazan, currently pursuing my studying in software engineering from [42's campus in Amsterdam named Codam](https://www.codam.nl/). I take great care in the experience, and code quality of the things I build. I am trying to give a strong vision for my developer friends and colleagues which helps them to make their development workflow as much as easy as possible!
+
+I believe self-education is the truest form of education and I am a passionate self-taught software engineer, documenting my process of learning & growing every day.
 
 #### I'm updating all my projects for Codam/42Amsterdam to [a dedicated organization for them. Check them out here](https://github.com/42Codam/Index)!
 #### You can also find my personal project called "Youthful", where I brought my own startup idea to life, [in the organization here](https://github.com/42Codam/Index)!.
