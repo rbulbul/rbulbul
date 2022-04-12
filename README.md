@@ -39,6 +39,11 @@ Find out more about me & feel free to connect:
 
 ![Ramazan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rbulbul&layout=compact&bg_color=7049c7,86a8e7,E56EB2&title_color=fff&text_color=fff)
 
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=w2wizard&theme=dark&show_icons=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=w2wizard&theme=dark&layout=compact" height="150"/> 
+</p>
+
 ---
 - 💬 ask me about anything, i am happy to help; [Reach here!](mailto:29.rbulbul@gmail.com) :)
 
