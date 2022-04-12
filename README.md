@@ -55,8 +55,8 @@ Find out more about me & feel free to connect:
 ---
 
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rbulbul&theme=dark&show_icons=true" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbulbul&theme=dark&layout=compact" height="200"/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=rbulbul&theme=dark&show_icons=true" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbulbul&theme=dark&layout=compact" height="175"/> 
 </p>
 
 ---
